@@ -29,6 +29,7 @@ body{
     border-radius: 10px;
     padding: 30px;
     position: relative;
+     box-shadow: 5px 10px 30px rgba(0, 0, 0, 0.5);
 }
 
 .foto {
@@ -39,7 +40,7 @@ body{
     height: 150px;
     border: 3px solid white;
     border-radius: 50%;
-   
+    box-shadow: 5px 10px 30px rgba(0, 0, 0, 0.5);
 }
 
 h1 {
